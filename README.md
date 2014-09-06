@@ -1,1 +1,1 @@
-Ruby on Rails app to experiment with gibbon gem
+Ruby code to experiment with gibbon gem
